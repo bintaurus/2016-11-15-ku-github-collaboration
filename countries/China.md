@@ -1,6 +1,7 @@
 ##China
 ## population
-
+Bin
+Beijing
 
 ## capital
 
